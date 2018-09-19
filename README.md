@@ -1,7 +1,9 @@
 # Let_the_Free_Times_Roll_BT
 Let the Free Times Roll - Using AWS Continuous Deployment tools.
 
-Test 
+
+I have modified the readme file
+
 Manually uploading and deploying code to update applications is a thing of the past. Using AWS tools like CodePipeline, CodeBuild, & S3 students will build a system that allows them to write and push code that triggers seamless and automatic deployments. Students will also setup an email notification that is sent to developers if a status change is made in the build process using CloudWatch & SNS. Let the free times roll with Continuous Deployments.
 
 Prepared by [Brock Tubre](https://brocktubre.com) 2018
